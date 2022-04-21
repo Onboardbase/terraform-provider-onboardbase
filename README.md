@@ -2,7 +2,7 @@
 
 ## Provider Overview
 
-The Onboardbase terraform provider allows you to fetch secrets stored on your Onboardbase account and use them in your Tertaform code
+The Onboardbase terraform provider allows you to fetch secrets stored on your Onboardbase account and use them in your Tertaform code.
 
 ## Prerequisites
 
