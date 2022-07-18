@@ -2,7 +2,8 @@ terraform {
   // Install as a required provider
   required_providers {
     onboardbase = {
-      source = "onboardbase.com/providers/onboardbase"
+      source = "Onboardbase/onboardbase"
+      version = "1.0.2"
     }
   }
 }
